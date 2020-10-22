@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7940A595-FFCF-4CB9-90BC-B47930230ECF}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>DesignPatterns</RootNamespace>
+    <AssemblyName>DesignPatterns</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Adapter\Adaptee.cs" />
+    <Compile Include="Adapter\Adapter.cs" />
+    <Compile Include="Adapter\Target.cs" />
+    <Compile Include="Command\Command.cs" />
+    <Compile Include="Command\ConcreteCommand.cs" />
+    <Compile Include="Command\Example\AirConditioningInvoker.cs" />
+    <Compile Include="Command\Example\CloseAirConditioningCommand.cs" />
+    <Compile Include="Command\Example\CloseTVCommand.cs" />
+    <Compile Include="Command\Example\ICommand.cs" />
+    <Compile Include="Command\Example\OpenAirConditioningCommand.cs" />
+    <Compile Include="Command\Example\OpenTVCommand.cs" />
+    <Compile Include="Command\Example\TVInvoker.cs" />
+    <Compile Include="Command\Example\XiaoAi.cs" />
+    <Compile Include="Command\Invoker.cs" />
+    <Compile Include="Command\Receiver.cs" />
+    <Compile Include="Composite\Component.cs" />
+    <Compile Include="Composite\Composite.cs" />
+    <Compile Include="Composite\Leaf.cs" />
+    <Compile Include="Decorator\BeverageComponent.cs" />
+    <Compile Include="Decorator\CondimentDecorator.cs" />
+    <Compile Include="Decorator\HouseBlend.cs" />
+    <Compile Include="Decorator\Espresso.cs" />
+    <Compile Include="Decorator\Mocha.cs" />
+    <Compile Include="Decorator\Whip.cs" />
+    <Compile Include="Facade\Amplifier.cs" />
+    <Compile Include="Facade\DVDPlayer.cs" />
+    <Compile Include="Facade\Light.cs" />
+    <Compile Include="Facade\MovieFacade.cs" />
+    <Compile Include="Facade\Projector.cs" />
+    <Compile Include="Facade\Screen.cs" />
+    <Compile Include="Factory\Benz.cs" />
+    <Compile Include="Factory\HouseAbstract.cs" />
+    <Compile Include="Factory\HouseAndCar.cs" />
+    <Compile Include="Factory\IHouseFactory.cs" />
+    <Compile Include="Factory\ISuperFactory.cs" />
+    <Compile Include="Factory\LamborghiniCarFactory.cs" />
+    <Compile Include="Factory\FerrariCarFactory.cs" />
+    <Compile Include="Factory\CarAbstract.cs" />
+    <Compile Include="Factory\BenzCarFactory.cs" />
+    <Compile Include="Factory\Ferrari.cs" />
+    <Compile Include="Factory\ICarFactory.cs" />
+    <Compile Include="Factory\Lamborghini.cs" />
+    <Compile Include="Factory\CarSimpleFactory.cs" />
+    <Compile Include="Factory\Siheyuan.cs" />
+    <Compile Include="Factory\SiheyuanHouseFactory.cs" />
+    <Compile Include="Factory\Villa.cs" />
+    <Compile Include="Factory\VillaHouseFactory.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Iterator\Aggregate.cs" />
+    <Compile Include="Iterator\ConcreteAggregate.cs" />
+    <Compile Include="Iterator\ConcreteIterator.cs" />
+    <Compile Include="Iterator\Iterator.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Proxy\ConcreteSubject.cs" />
+    <Compile Include="Proxy\Proxy.cs" />
+    <Compile Include="Proxy\Subject.cs" />
+    <Compile Include="Singleton\Singleton.cs" />
+    <Compile Include="state\ConcreteStateA.cs" />
+    <Compile Include="state\ConcreteStateB.cs" />
+    <Compile Include="state\Context.cs" />
+    <Compile Include="state\State.cs" />
+    <Compile Include="Strategy\ConcreteStrategyA.cs" />
+    <Compile Include="Strategy\ConcreteStrategyB.cs" />
+    <Compile Include="Strategy\Context.cs" />
+    <Compile Include="Strategy\IStrategy.cs" />
+    <Compile Include="Template\AbstractClass.cs" />
+    <Compile Include="Template\ConcreteClassA.cs" />
+    <Compile Include="Template\ConcreteClassB.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

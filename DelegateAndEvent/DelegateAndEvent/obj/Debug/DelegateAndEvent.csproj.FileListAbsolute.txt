@@ -1,0 +1,9 @@
+C:\Users\DELL\source\repos\DelegateAndEvent\DelegateAndEvent\bin\Debug\DelegateAndEvent.exe
+C:\Users\DELL\source\repos\DelegateAndEvent\DelegateAndEvent\bin\Debug\DelegateAndEvent.pdb
+C:\Users\DELL\source\repos\DelegateAndEvent\DelegateAndEvent\obj\Debug\DelegateAndEvent.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\DelegateAndEvent\DelegateAndEvent\obj\Debug\DelegateAndEvent.Form1.resources
+C:\Users\DELL\source\repos\DelegateAndEvent\DelegateAndEvent\obj\Debug\DelegateAndEvent.Properties.Resources.resources
+C:\Users\DELL\source\repos\DelegateAndEvent\DelegateAndEvent\obj\Debug\DelegateAndEvent.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\DelegateAndEvent\DelegateAndEvent\obj\Debug\DelegateAndEvent.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\DelegateAndEvent\DelegateAndEvent\obj\Debug\DelegateAndEvent.exe
+C:\Users\DELL\source\repos\DelegateAndEvent\DelegateAndEvent\obj\Debug\DelegateAndEvent.pdb

@@ -1,0 +1,9 @@
+C:\Users\DELL\source\repos\HowToUseBase\HowToUseBase\bin\Debug\HowToUseBase.exe
+C:\Users\DELL\source\repos\HowToUseBase\HowToUseBase\bin\Debug\HowToUseBase.pdb
+C:\Users\DELL\source\repos\HowToUseBase\HowToUseBase\obj\Debug\HowToUseBase.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\HowToUseBase\HowToUseBase\obj\Debug\HowToUseBase.Form1.resources
+C:\Users\DELL\source\repos\HowToUseBase\HowToUseBase\obj\Debug\HowToUseBase.Properties.Resources.resources
+C:\Users\DELL\source\repos\HowToUseBase\HowToUseBase\obj\Debug\HowToUseBase.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\HowToUseBase\HowToUseBase\obj\Debug\HowToUseBase.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\HowToUseBase\HowToUseBase\obj\Debug\HowToUseBase.exe
+C:\Users\DELL\source\repos\HowToUseBase\HowToUseBase\obj\Debug\HowToUseBase.pdb

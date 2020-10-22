@@ -1,0 +1,9 @@
+C:\Users\DELL\source\repos\REflection\REflection\bin\Debug\REflection.exe
+C:\Users\DELL\source\repos\REflection\REflection\bin\Debug\REflection.pdb
+C:\Users\DELL\source\repos\REflection\REflection\obj\Debug\REflection.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\REflection\REflection\obj\Debug\REflection.Form1.resources
+C:\Users\DELL\source\repos\REflection\REflection\obj\Debug\REflection.Properties.Resources.resources
+C:\Users\DELL\source\repos\REflection\REflection\obj\Debug\REflection.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\REflection\REflection\obj\Debug\REflection.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\REflection\REflection\obj\Debug\REflection.exe
+C:\Users\DELL\source\repos\REflection\REflection\obj\Debug\REflection.pdb

@@ -1,0 +1,6 @@
+C:\Users\DELL\source\repos\REflection\student\bin\Debug\student.dll
+C:\Users\DELL\source\repos\REflection\student\bin\Debug\student.pdb
+C:\Users\DELL\source\repos\REflection\student\obj\Debug\student.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\REflection\student\obj\Debug\student.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\REflection\student\obj\Debug\student.dll
+C:\Users\DELL\source\repos\REflection\student\obj\Debug\student.pdb

@@ -1,0 +1,6 @@
+C:\Users\DELL\source\repos\DataStructure\ls\bin\Debug\ls.exe
+C:\Users\DELL\source\repos\DataStructure\ls\bin\Debug\ls.pdb
+C:\Users\DELL\source\repos\DataStructure\ls\obj\Debug\SinglyLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\DataStructure\ls\obj\Debug\ls.exe
+C:\Users\DELL\source\repos\DataStructure\ls\obj\Debug\ls.pdb
+C:\Users\DELL\source\repos\DataStructure\ls\obj\Debug\SinglyLinkedList.csprojAssemblyReference.cache

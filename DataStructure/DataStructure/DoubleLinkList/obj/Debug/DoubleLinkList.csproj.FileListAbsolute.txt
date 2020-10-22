@@ -1,0 +1,6 @@
+C:\Users\DELL\source\repos\DataStructure\DoubleLinkList\bin\Debug\DoubleLinkList.exe
+C:\Users\DELL\source\repos\DataStructure\DoubleLinkList\bin\Debug\DoubleLinkList.pdb
+C:\Users\DELL\source\repos\DataStructure\DoubleLinkList\obj\Debug\DoubleLinkList.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\DataStructure\DoubleLinkList\obj\Debug\DoubleLinkList.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\DataStructure\DoubleLinkList\obj\Debug\DoubleLinkList.exe
+C:\Users\DELL\source\repos\DataStructure\DoubleLinkList\obj\Debug\DoubleLinkList.pdb

@@ -1,0 +1,6 @@
+C:\Users\DELL\source\repos\DataStructure\DataStructure\bin\Debug\DataStructure.exe
+C:\Users\DELL\source\repos\DataStructure\DataStructure\bin\Debug\DataStructure.pdb
+C:\Users\DELL\source\repos\DataStructure\DataStructure\obj\Debug\LinearList.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\DataStructure\DataStructure\obj\Debug\LinearList.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\DataStructure\DataStructure\obj\Debug\DataStructure.exe
+C:\Users\DELL\source\repos\DataStructure\DataStructure\obj\Debug\DataStructure.pdb
